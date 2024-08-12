@@ -24,7 +24,7 @@ public class JavaApplication1 {
             System.out.print("Digite el numero de tabla que desea conocer: ");
             int num = a.nextInt();
 
-            for (int i=1;i=12;i++){
+            for (int i=1;i<=12;i++){
 
                 System.out.println(num +"x"+i+"="+(num*i));
             
