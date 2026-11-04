@@ -46,7 +46,7 @@ Reproductor de música web enfocado en la experiencia de escucha y funcionalidad
 - Persistencia local de datos.
 
 **Tecnologías:** React, JavaScript, Vite, Web Audio API, IndexedDB.
-[Ver repositorio](#)
+[Ver repositorio](https://github.com/LuisMMoreno/FLOWFADE)
 
 ### Nuditos
 Plataforma web para un emprendimiento de productos artesanales personalizados.
@@ -56,7 +56,7 @@ Plataforma web para un emprendimiento de productos artesanales personalizados.
 - Interfaz enfocada en la identidad de marca.
 
 **Tecnologías:** Next.js, React, TypeScript, Tailwind CSS.
-[Ver repositorio](#)
+[Ver repositorio](https://github.com/LuisMMoreno/Nuditos)
 
 ### Campus Cero
 Plataforma educativa orientada a apoyar la exploración vocacional de estudiantes y facilitar el acceso a información académica.
@@ -65,13 +65,13 @@ Plataforma educativa orientada a apoyar la exploración vocacional de estudiante
 - Contenido organizado por programas académicos.
 
 **Tecnologías:** PHP, MySQL, HTML, CSS y JavaScript.
-[Ver repositorio](#)
+[Ver repositorio](https://github.com/LuisMMoreno/campus-cero)
 
 ### Inventario Nuditos
 Aplicación desarrollada para apoyar la gestión de inventario y ventas de un emprendimiento.
 
 **Tecnologías:** JavaScript, HTML, CSS.
-[Ver repositorio](#)
+[Ver repositorio](https://github.com/LuisMMoreno/Inventario-Nuditos)
 
 ---
 
@@ -96,7 +96,7 @@ Aplicación desarrollada para apoyar la gestión de inventario y ventas de un em
 Estoy abierto a conectar con desarrolladores, colaborar en proyectos y conocer oportunidades de crecimiento profesional.
 
 - **GitHub:** [@LuisMMoreno](https://github.com/LuisMMoreno)
-- **LinkedIn:** [[Luis Miguel Moreno](https://www.linkedin.com/in/luismiguelmorenogutierrez/)
-- **Correo:** [lm.morenog3@gmail.com]
+- **LinkedIn:** [Luis Miguel Moreno](https://www.linkedin.com/in/luismiguelmorenogutierrez/)
+- **Correo:** lm.morenog3@gmail.com
 
 *Construyendo, aprendiendo y mejorando un proyecto a la vez.*
