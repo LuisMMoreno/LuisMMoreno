@@ -98,5 +98,3 @@ Estoy abierto a conectar con desarrolladores, colaborar en proyectos y conocer o
 - **GitHub:** [@LuisMMoreno](https://github.com/LuisMMoreno)
 - **LinkedIn:** [Luis Miguel Moreno](https://www.linkedin.com/in/luismiguelmorenogutierrez/)
 - **Correo:** lm.morenog3@gmail.com
-
-*Construyendo, aprendiendo y mejorando un proyecto a la vez.*
