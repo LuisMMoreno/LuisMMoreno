@@ -1,100 +1,79 @@
-# ¡Hola! Soy Luis Moreno
+<div align="center">
 
-**Estudiante de Ingeniería de Sistemas | Desarrollador de software**
+# Luis Moreno
+### Ingeniero de Sistemas en formación · Desarrollador de software
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad de Cundinamarca, Colombia. Me interesa el desarrollo de software y la creación de soluciones tecnológicas que combinen funcionalidad, diseño y buenas experiencias de usuario. 
+Construyo productos digitales que resuelven problemas reales, con especial interés en aplicaciones web, tecnología educativa y experiencias de usuario.
 
-Me gusta aprender construyendo proyectos reales, explorar nuevas tecnologías y enfrentar problemas que me permitan mejorar mis habilidades como desarrollador. Actualmente estoy fortaleciendo mis conocimientos en desarrollo web, arquitectura de software y programación.
+[GitHub](https://github.com/LuisMMoreno) · [LinkedIn](https://www.linkedin.com/in/luismiguelmorenogutierrez/) · [Correo](mailto:lm.morenog3@gmail.com)
 
----
-
-## Tecnologías y herramientas
-
-### Lenguajes de programación
-- JavaScript
-- Python
-- Java
-- C++
-- PHP
-
-### Desarrollo web
-- HTML5
-- CSS3
-- React
-- Next.js
-- Tailwind CSS
-
-### Bases de datos
-- MySQL
-- SQLite
-
-### Herramientas y tecnologías
-- Git y GitHub
-- Vite
-- Node.js
-- Figma
+</div>
 
 ---
 
-## Proyectos destacados
+## Proyecto principal
+
+# Gulugulu — búsqueda educativa que funciona sin conexión
+
+**Gulugulu** es una plataforma educativa pensada para instituciones que necesitan organizar y encontrar recursos pedagógicos incluso cuando no cuentan con acceso a internet. Es mi proyecto insignia: integra búsqueda de contenido, actividades educativas y herramientas de administración en una solución diseñada para operar localmente.
+
+- **Búsqueda de recursos:** SQLite FTS5, relevancia BM25, sinónimos y filtros por grado, materia y tipo de contenido.
+- **Experiencia educativa:** minijuegos organizados por grado, con interfaz SPA y animaciones SVG.
+- **Administración docente:** gestión de usuarios por roles y carga de recursos con metadatos.
+- **Operación offline:** recursos y bibliotecas de interfaz locales, sin depender de CDN externos.
+- **Calidad:** pruebas automatizadas para búsqueda, rutas y autenticación.
+
+**Tecnologías:** Python, Flask, SQLite, JavaScript, Vue.js, GSAP y SQLite FTS5.
+
+[**Explorar Gulugulu en GitHub →**](https://github.com/LuisMMoreno/Gulugulu)
+
+---
+
+## Otros proyectos
 
 ### FLOWFADE
-Reproductor de música web enfocado en la experiencia de escucha y funcionalidades de mezcla de audio.
-- Reproducción y gestión de bibliotecas musicales.
-- Crossfade y ecualización de audio.
-- Detección de BPM y herramientas para mezcla.
-- Persistencia local de datos.
+Reproductor musical web con herramientas de mezcla y una experiencia de escucha centrada en el usuario. Incluye crossfade, ecualización, detección de BPM y persistencia local.
 
-**Tecnologías:** React, JavaScript, Vite, Web Audio API, IndexedDB.
-[Ver repositorio](https://github.com/LuisMMoreno/FLOWFADE)
+**Tecnologías:** React, JavaScript, Vite, Web Audio API e IndexedDB.  
+[Ver repositorio](https://github.com/LuisMMoreno/FLOWFADE) · [Probar aplicación](https://flowfade.vercel.app)
 
 ### Nuditos
-Plataforma web para un emprendimiento de productos artesanales personalizados.
-- Catálogo de productos y categorías.
-- Búsqueda de productos.
-- Experiencia de navegación adaptable.
-- Interfaz enfocada en la identidad de marca.
+Plataforma web para un emprendimiento de productos artesanales personalizados, con catálogo, categorías y búsqueda de productos.
 
-**Tecnologías:** Next.js, React, TypeScript, Tailwind CSS.
-[Ver repositorio](https://github.com/LuisMMoreno/Nuditos)
-
-### Campus Cero
-Plataforma educativa orientada a apoyar la exploración vocacional de estudiantes y facilitar el acceso a información académica.
-- Registro e inicio de sesión.
-- Recuperación de contraseñas.
-- Contenido organizado por programas académicos.
-
-**Tecnologías:** PHP, MySQL, HTML, CSS y JavaScript.
-[Ver repositorio](https://github.com/LuisMMoreno/campus-cero)
+**Tecnologías:** Next.js, React, TypeScript y Tailwind CSS.  
+[Ver repositorio](https://github.com/LuisMMoreno/Nuditos) · [Visitar aplicación](https://nuditos.vercel.app)
 
 ### Inventario Nuditos
-Aplicación desarrollada para apoyar la gestión de inventario y ventas de un emprendimiento.
+Aplicación para apoyar la gestión de inventario y ventas de un emprendimiento.
 
-**Tecnologías:** JavaScript, HTML, CSS.
-[Ver repositorio](https://github.com/LuisMMoreno/Inventario-Nuditos)
+**Tecnologías:** JavaScript, HTML y CSS.  
+[Ver repositorio](https://github.com/LuisMMoreno/Inventario-Nuditos) · [Visitar aplicación](https://inventario-nuditos.vercel.app)
 
----
+### Campus Cero
+Plataforma educativa para apoyar la exploración vocacional y facilitar el acceso a información académica.
 
-## Actualmente aprendiendo
-- Mejores prácticas de arquitectura y desarrollo de software.
-- Pruebas automatizadas y control de calidad.
-- Desarrollo de aplicaciones web modernas.
-- Inglés, con el objetivo de alcanzar un nivel B2.
+**Tecnologías:** PHP, MySQL, HTML, CSS y JavaScript.  
+[Ver repositorio](https://github.com/LuisMMoreno/campus-cero)
 
 ---
 
-## Intereses profesionales
-- Desarrollo Frontend.
-- Desarrollo de aplicaciones web.
-- Inteligencia artificial.
-- Desarrollo de videojuegos.
-- Diseño y construcción de productos digitales.
+## Perfil técnico
 
----
+- **Lenguajes:** JavaScript, Python, Java, C++, PHP.
+- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS.
+- **Datos:** MySQL, SQLite.
+- **Herramientas:** Git, GitHub, Vite, Node.js y Figma.
+
+Me interesa seguir fortaleciendo mis conocimientos en arquitectura de software, pruebas automatizadas y desarrollo de aplicaciones web.
+
+## Sobre mí
+
+Estudio Ingeniería de Sistemas en la Universidad de Cundinamarca, Colombia. Me gusta aprender construyendo proyectos reales, entender las necesidades detrás de cada problema y convertirlas en soluciones digitales útiles.
+
+Estoy abierto a conectar con profesionales, colaborar en proyectos y conversar sobre oportunidades de crecimiento.
 
 ## Contacto
-Estoy abierto a conectar con desarrolladores, colaborar en proyectos y conocer oportunidades de crecimiento profesional.
 
-- **GitHub:** [@LuisMMoreno](https://github.com/LuisMMoreno)
 - **LinkedIn:** [Luis Miguel Moreno](https://www.linkedin.com/in/luismiguelmorenogutierrez/)
-- **Correo:** lm.morenog3@gmail.com
+- **Correo:** [lm.morenog3@gmail.com](mailto:lm.morenog3@gmail.com)
+- **GitHub:** [@LuisMMoreno](https://github.com/LuisMMoreno)
