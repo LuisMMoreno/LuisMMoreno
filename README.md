@@ -3,74 +3,57 @@
 # Luis Moreno
 ### Ingeniero de Sistemas en formación · Desarrollador de software
 
-Construyo productos digitales que resuelven problemas reales, con especial interés en aplicaciones web, tecnología educativa y experiencias de usuario.
+**Desarrollo aplicaciones web y soluciones digitales enfocadas en resolver necesidades concretas.**  
+Interés en desarrollo full-stack, tecnología educativa y productos centrados en las personas.
 
-[GitHub](https://github.com/LuisMMoreno) · [LinkedIn](https://www.linkedin.com/in/luismiguelmorenogutierrez/) · [Correo](mailto:lm.morenog3@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/luismiguelmorenogutierrez/) · [Correo](mailto:lm.morenog3@gmail.com) · [GitHub](https://github.com/LuisMMoreno)
 
 </div>
 
 ---
 
-## Proyecto principal
+## Proyecto destacado · Gulugulu
 
-# Gulugulu — búsqueda educativa que funciona sin conexión
+### Plataforma educativa offline para encontrar y gestionar recursos pedagógicos
 
-**Gulugulu** es una plataforma educativa pensada para instituciones que necesitan organizar y encontrar recursos pedagógicos incluso cuando no cuentan con acceso a internet. Es mi proyecto insignia: integra búsqueda de contenido, actividades educativas y herramientas de administración en una solución diseñada para operar localmente.
+Diseñé y desarrollé **Gulugulu** para facilitar el acceso a materiales educativos en instituciones con conectividad limitada. El proyecto reúne búsqueda de recursos, actividades didácticas y herramientas de administración en una aplicación que puede operar localmente.
 
-- **Búsqueda de recursos:** SQLite FTS5, relevancia BM25, sinónimos y filtros por grado, materia y tipo de contenido.
-- **Experiencia educativa:** minijuegos organizados por grado, con interfaz SPA y animaciones SVG.
-- **Administración docente:** gestión de usuarios por roles y carga de recursos con metadatos.
-- **Operación offline:** recursos y bibliotecas de interfaz locales, sin depender de CDN externos.
-- **Calidad:** pruebas automatizadas para búsqueda, rutas y autenticación.
+- **Búsqueda de texto completo:** SQLite FTS5, relevancia BM25, expansión con sinónimos y filtros por grado, materia y tipo de recurso.
+- **Experiencia educativa:** minijuegos organizados por grado, navegación SPA y animaciones SVG.
+- **Administración:** acceso por roles, carga de recursos con metadatos y copias de seguridad.
+- **Diseño para uso offline:** recursos y bibliotecas de interfaz almacenados localmente, sin depender de CDN externos.
+- **Pruebas automatizadas:** cobertura de funcionalidades de búsqueda, rutas y autenticación.
 
-**Tecnologías:** Python, Flask, SQLite, JavaScript, Vue.js, GSAP y SQLite FTS5.
+**Stack:** Python · Flask · SQLite / FTS5 · JavaScript · Vue.js · GSAP
 
-[**Explorar Gulugulu en GitHub →**](https://github.com/LuisMMoreno/Gulugulu)
+[**Ver proyecto y código →**](https://github.com/LuisMMoreno/Gulugulu)
 
 ---
 
 ## Otros proyectos
 
-### FLOWFADE
-Reproductor musical web con herramientas de mezcla y una experiencia de escucha centrada en el usuario. Incluye crossfade, ecualización, detección de BPM y persistencia local.
-
-**Tecnologías:** React, JavaScript, Vite, Web Audio API e IndexedDB.  
-[Ver repositorio](https://github.com/LuisMMoreno/FLOWFADE) · [Probar aplicación](https://flowfade.vercel.app)
-
-### Nuditos
-Plataforma web para un emprendimiento de productos artesanales personalizados, con catálogo, categorías y búsqueda de productos.
-
-**Tecnologías:** Next.js, React, TypeScript y Tailwind CSS.  
-[Ver repositorio](https://github.com/LuisMMoreno/Nuditos) · [Visitar aplicación](https://nuditos.vercel.app)
-
-### Inventario Nuditos
-Aplicación para apoyar la gestión de inventario y ventas de un emprendimiento.
-
-**Tecnologías:** JavaScript, HTML y CSS.  
-[Ver repositorio](https://github.com/LuisMMoreno/Inventario-Nuditos) · [Visitar aplicación](https://inventario-nuditos.vercel.app)
-
-### Campus Cero
-Plataforma educativa para apoyar la exploración vocacional y facilitar el acceso a información académica.
-
-**Tecnologías:** PHP, MySQL, HTML, CSS y JavaScript.  
-[Ver repositorio](https://github.com/LuisMMoreno/campus-cero)
+| Proyecto | Descripción | Tecnologías y enlaces |
+| --- | --- | --- |
+| **FLOWFADE** | Reproductor web con herramientas de mezcla, crossfade, ecualización y detección de BPM. | React · JavaScript · Vite · Web Audio API · IndexedDB · [Código](https://github.com/LuisMMoreno/FLOWFADE) · [Demo](https://flowfade.vercel.app) |
+| **Nuditos** | Plataforma web para un emprendimiento de productos artesanales, con catálogo y búsqueda. | Next.js · React · TypeScript · Tailwind CSS · [Código](https://github.com/LuisMMoreno/Nuditos) · [Demo](https://nuditos.vercel.app) |
+| **Inventario Nuditos** | Aplicación para apoyar la gestión de inventario y ventas de un emprendimiento. | JavaScript · HTML · CSS · [Código](https://github.com/LuisMMoreno/Inventario-Nuditos) · [Demo](https://inventario-nuditos.vercel.app) |
+| **Campus Cero** | Plataforma educativa para apoyar la exploración vocacional y el acceso a información académica. | PHP · MySQL · HTML · CSS · JavaScript · [Código](https://github.com/LuisMMoreno/campus-cero) |
 
 ---
 
-## Perfil técnico
+## Competencias técnicas
 
-- **Lenguajes:** JavaScript, Python, Java, C++, PHP.
-- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS.
-- **Datos:** MySQL, SQLite.
-- **Herramientas:** Git, GitHub, Vite, Node.js y Figma.
+- **Lenguajes:** Python, JavaScript, Java, C++, PHP.
+- **Desarrollo web:** Flask, React, Next.js, HTML5, CSS3, Tailwind CSS.
+- **Bases de datos:** SQLite, MySQL.
+- **Herramientas:** Git, GitHub, Vite, Node.js, Figma.
+- **Prácticas aplicadas:** pruebas automatizadas, control de acceso por roles, búsqueda de texto completo y diseño para operación offline.
 
-Me interesa seguir fortaleciendo mis conocimientos en arquitectura de software, pruebas automatizadas y desarrollo de aplicaciones web.
+## Perfil
 
-## Sobre mí
+Estudiante de Ingeniería de Sistemas en la **Universidad de Cundinamarca**, Colombia. Me motiva participar en el ciclo completo de desarrollo: comprender el problema, diseñar una solución, implementarla y mejorarla a partir de pruebas y retroalimentación.
 
-Estudio Ingeniería de Sistemas en la Universidad de Cundinamarca, Colombia. Me gusta aprender construyendo proyectos reales, entender las necesidades detrás de cada problema y convertirlas en soluciones digitales útiles.
-
-Estoy abierto a conectar con profesionales, colaborar en proyectos y conversar sobre oportunidades de crecimiento.
+Busco oportunidades junior, prácticas profesionales y colaboraciones en desarrollo de software, especialmente en aplicaciones web y productos digitales. Abierto a conversar con equipos y profesionales del sector.
 
 ## Contacto
 
